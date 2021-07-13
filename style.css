@@ -119,6 +119,9 @@ hr {
   .courses {
     grid-template-columns: repeat(1, 1fr);
   }
+  .courses {
+    margin-bottom: 10px;
+  }
   .player,
   .blog {
     flex-direction: column;
