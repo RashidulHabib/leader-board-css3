@@ -97,6 +97,11 @@ hr {
   align-items: center;
   justify-content: space-between;
 }
+.course-info .course-duration {
+  color: #ff4a60;
+  background-color: #ffe4e8;
+  border-radius: 15px;
+}
 .fa-star {
   font-size: 12px;
 }
@@ -119,8 +124,8 @@ hr {
   .courses {
     grid-template-columns: repeat(1, 1fr);
   }
-  .courses {
-    margin-bottom: 10px;
+  .course {
+    margin-bottom: 20px;
   }
   .player,
   .blog {
